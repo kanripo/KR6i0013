@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘寶月童子問法經
+#+DATE: 2015-08-30 20:07:38.761298
+#+PROPERTY: JUAN 0
